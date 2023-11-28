@@ -24,3 +24,13 @@ monitorEvents($0, ['focus']);
 ```
 getEventListeners($0);
 ```
+## Get element reference
+
+```
+// current 
+$0
+// previous
+$1
+// previous previous
+$2
+```
