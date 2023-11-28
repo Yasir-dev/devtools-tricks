@@ -18,3 +18,9 @@ monitorEvents($0);
 // particular event
 monitorEvents($0, ['focus']);
 ```
+
+## Get event listeners
+
+```
+getEventListeners($0);
+```
