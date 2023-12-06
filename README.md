@@ -34,3 +34,10 @@ $1
 // previous previous
 $2
 ```
+
+## Copy Information
+
+```
+ copy(localStorage);
+ copy(JSON.parse(data));
+```
